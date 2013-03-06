@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>reload.png</file>
+        <file>back.png</file>
+        <file>forward.png</file>
+        <file>jump.png</file>
+        <file>home.png</file>
+        <file>wait.png</file>
+        <file>cancel.png</file>
+        <file>settings.png</file>
+    </qresource>
+</RCC>
